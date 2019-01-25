@@ -10,3 +10,14 @@ D:\AnTet\Web\Web.Model\obj\Debug\Web.Model.csproj.CoreCompileInputs.cache
 D:\AnTet\Web\Web.Model\obj\Debug\Web.Model.csproj.CopyComplete
 D:\AnTet\Web\Web.Model\obj\Debug\Web.Model.dll
 D:\AnTet\Web\Web.Model\obj\Debug\Web.Model.pdb
+D:\AnTet\Web\Git\Web.Model\bin\Debug\Web.Model.dll.config
+D:\AnTet\Web\Git\Web.Model\bin\Debug\Web.Model.dll
+D:\AnTet\Web\Git\Web.Model\bin\Debug\Web.Model.pdb
+D:\AnTet\Web\Git\Web.Model\bin\Debug\EntityFramework.dll
+D:\AnTet\Web\Git\Web.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\AnTet\Web\Git\Web.Model\bin\Debug\EntityFramework.xml
+D:\AnTet\Web\Git\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\AnTet\Web\Git\Web.Model\obj\Debug\Web.Model.csproj.CoreCompileInputs.cache
+D:\AnTet\Web\Git\Web.Model\obj\Debug\Web.Model.csproj.CopyComplete
+D:\AnTet\Web\Git\Web.Model\obj\Debug\Web.Model.dll
+D:\AnTet\Web\Git\Web.Model\obj\Debug\Web.Model.pdb

@@ -10,3 +10,15 @@ D:\AnTet\Web\Web.Service\obj\Debug\Web.Service.csproj.CoreCompileInputs.cache
 D:\AnTet\Web\Web.Service\obj\Debug\Web.Service.csproj.CopyComplete
 D:\AnTet\Web\Web.Service\obj\Debug\Web.Service.dll
 D:\AnTet\Web\Web.Service\obj\Debug\Web.Service.pdb
+D:\AnTet\Web\Git\Web.Service\bin\Debug\Web.Service.dll.config
+D:\AnTet\Web\Git\Web.Service\bin\Debug\Web.Service.dll
+D:\AnTet\Web\Git\Web.Service\bin\Debug\Web.Service.pdb
+D:\AnTet\Web\Git\Web.Service\bin\Debug\EntityFramework.dll
+D:\AnTet\Web\Git\Web.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\AnTet\Web\Git\Web.Service\bin\Debug\EntityFramework.xml
+D:\AnTet\Web\Git\Web.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\AnTet\Web\Git\Web.Service\obj\Debug\Web.Service.csprojAssemblyReference.cache
+D:\AnTet\Web\Git\Web.Service\obj\Debug\Web.Service.csproj.CoreCompileInputs.cache
+D:\AnTet\Web\Git\Web.Service\obj\Debug\Web.Service.csproj.CopyComplete
+D:\AnTet\Web\Git\Web.Service\obj\Debug\Web.Service.dll
+D:\AnTet\Web\Git\Web.Service\obj\Debug\Web.Service.pdb

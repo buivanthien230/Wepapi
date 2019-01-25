@@ -10,3 +10,15 @@ D:\AnTet\Web\Web.Common\obj\Debug\Web.Common.csproj.CoreCompileInputs.cache
 D:\AnTet\Web\Web.Common\obj\Debug\Web.Common.csproj.CopyComplete
 D:\AnTet\Web\Web.Common\obj\Debug\Web.Common.dll
 D:\AnTet\Web\Web.Common\obj\Debug\Web.Common.pdb
+D:\AnTet\Web\Git\Web.Common\bin\Debug\Web.Common.dll.config
+D:\AnTet\Web\Git\Web.Common\bin\Debug\Web.Common.dll
+D:\AnTet\Web\Git\Web.Common\bin\Debug\Web.Common.pdb
+D:\AnTet\Web\Git\Web.Common\bin\Debug\EntityFramework.dll
+D:\AnTet\Web\Git\Web.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\AnTet\Web\Git\Web.Common\bin\Debug\EntityFramework.xml
+D:\AnTet\Web\Git\Web.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\AnTet\Web\Git\Web.Common\obj\Debug\Web.Common.csprojAssemblyReference.cache
+D:\AnTet\Web\Git\Web.Common\obj\Debug\Web.Common.csproj.CoreCompileInputs.cache
+D:\AnTet\Web\Git\Web.Common\obj\Debug\Web.Common.csproj.CopyComplete
+D:\AnTet\Web\Git\Web.Common\obj\Debug\Web.Common.dll
+D:\AnTet\Web\Git\Web.Common\obj\Debug\Web.Common.pdb
